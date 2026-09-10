@@ -1,0 +1,33 @@
+﻿sl_no,ministry_department,sector,project_count,original_cost_cr,revised_cost_cr,cumulative_expenditure_cr
+1,Department for Promotion of Industry & Internal Trade,Logistics Infrastructure,1,763,763,430
+1,Department for Promotion of Industry & Internal Trade,Real Estate,7,15586.25,15586.3,1244.36
+2,Department of Higher Education,Education,30,15165.68,14908.2,8310.52
+3,Department of Sports,Education,1,906.47,611.74,574.12
+4,Department of Telecommunications,Telecommunication,12,151125.15,273253,77035.7
+5,"Department of Water Resources, River Development & GR",Waste & Water,8,4039.12,4039.12,1643.05
+5,"Department of Water Resources, River Development & GR",Water Resources,40,117255.04,220989,160182
+6,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,26,21600.76,22814.8,10762
+7,Ministry of Coal,Coal,117,185612.91,183069,48260.8
+7,Ministry of Coal,Electricity Generation,9,56050.64,60593.8,29405.7
+7,Ministry of Coal,Railways,2,3485.86,5002.87,2338.96
+8,Ministry of Health & Family Welfare,Healthcare,23,17252.19,21471,8356.63
+9,Ministry of Housing & Urban Affairs,Construction,1,644,644,161.57
+9,Ministry of Housing & Urban Affairs,Real Estate,4,33749.85,33795.9,14539.5
+9,Ministry of Housing & Urban Affairs,Urban Public Transport,27,315168.47,335924,181939
+9,Ministry of Housing & Urban Affairs,Waste & Water,19,4581.29,4680.57,3489.26
+10,Ministry of Labour and Employment,Healthcare,11,2871.72,3080.24,1590
+11,Ministry of Mines,Construction,1,255.37,255.37,98.92
+11,Ministry of Mines,Metals & Mining,5,7989.36,12087.2,7203.91
+12,Ministry of Petroleum & Natural Gas,Energy Storage,16,80623.3,119394,101617
+12,Ministry of Petroleum & Natural Gas,Oil & Gas,96,370568.19,399478,201674
+13,"Ministry of Ports, Shipping and Waterways",Inland Waterways,1,5369.18,5061.15,3990.06
+13,"Ministry of Ports, Shipping and Waterways",Shipping,5,13572.5,13613.1,10569.4
+13,"Ministry of Ports, Shipping and Waterways","Tourism, Hospitality & Wellness",1,573,1238.05,614.91
+14,Ministry of Power,Coal,2,2083,2365,1072.11
+14,Ministry of Power,Electricity Generation,31,284729.2,335456,130569
+14,Ministry of Power,Transmission & Distribution,69,208869.73,214833,69254.8
+15,Ministry of Railways,Railways,260,718136.25,869473,578947
+16,Ministry of Road Transport & Highways,Roads & Highways,1137,1054522.87,1.08112e+006,369902
+17,Ministry of Steel,Metals & Mining,1,1700,1756.2,258.41
+17,Ministry of Steel,Steel,18,17811.66,21050,10073
+TOTAL,TOTAL,,1981,,"3,712,662.01","2,036,107.69"

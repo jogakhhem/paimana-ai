@@ -1,0 +1,312 @@
+﻿sl_no,state,ministry_department,sector,project_count,original_cost_cr,revised_cost_cr,cumulative_expenditure_cr
+1,Offshore,Ministry of Petroleum & Natural Gas,Oil & Gas,7,25889.58,29147.7,16132.96
+1,Offshore,Ministry of Railways,Railways,1,819,819,580.51
+1,PAN India,Department of Telecommunications,Telecommunication,5,141080.68,263402,73544.16
+1,PAN India,Ministry of Railways,Railways,1,274.39,274.39,0.00
+2,Andaman & Nicobar,Ministry of Housing & Urban Affairs,Real Estate,1,209.88,209.88,0.00
+2,Andaman & Nicobar,Ministry of Road Transport & Highways,Roads & Highways,3,653.97,1081.48,0.00
+3,Andhra Pradesh,Department for Promotion of Industry & Internal Trade,Real Estate,3,7061.44,7061.44,966.01
+3,Andhra Pradesh,Department of Higher Education,Education,1,305,305,64.25
+3,Andhra Pradesh,Department of Telecommunications,Telecommunication,3,7147.17,7147.17,2535.97
+3,Andhra Pradesh,"Department of Water Resources, River Development & GR",Water Resources,3,10901.5,57269.5,28166.88
+3,Andhra Pradesh,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,3,1224.86,1224.86,823.00
+3,Andhra Pradesh,Ministry of Housing & Urban Affairs,Waste & Water,1,172.22,172.22,88.86
+3,Andhra Pradesh,Ministry of Labour and Employment,Healthcare,1,384.27,384.27,253.37
+3,Andhra Pradesh,Ministry of Petroleum & Natural Gas,Energy Storage,1,2658.34,2810,2315.20
+3,Andhra Pradesh,Ministry of Petroleum & Natural Gas,Oil & Gas,4,36642.34,36702.3,33641.98
+3,Andhra Pradesh,Ministry of Power,Transmission & Distribution,6,20064.43,20064.4,6687.01
+3,Andhra Pradesh,Ministry of Railways,Railways,24,47210.95,55165.6,39727.40
+3,Andhra Pradesh,Ministry of Road Transport & Highways,Roads & Highways,92,84981.17,83517.7,31423.13
+4,Arunachal Pradesh,Department of Higher Education,Education,1,592.61,592.61,551.30
+4,Arunachal Pradesh,Department of Telecommunications,Telecommunication,1,1255.49,1255.49,332.43
+4,Arunachal Pradesh,Ministry of Petroleum & Natural Gas,Oil & Gas,1,9265,9265,6877.97
+4,Arunachal Pradesh,Ministry of Power,Electricity Generation,6,64102.68,83892.9,31344.62
+4,Arunachal Pradesh,Ministry of Power,Transmission & Distribution,2,4963.8,9338.7,8072.54
+4,Arunachal Pradesh,Ministry of Railways,Railways,1,435,1250,853.00
+4,Arunachal Pradesh,Ministry of Road Transport & Highways,Roads & Highways,13,8895.82,8895.82,1181.98
+5,Assam,Department of Higher Education,Education,1,153.71,153.71,137.84
+5,Assam,Department of Telecommunications,Telecommunication,1,1255.49,1255.49,332.43
+5,Assam,"Department of Water Resources, River Development & GR",Water Resources,1,256.16,256.16,44.70
+5,Assam,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,1,1712,2520,2627.39
+5,Assam,Ministry of Coal,Coal,2,449.23,449.23,217.08
+5,Assam,Ministry of Labour and Employment,Healthcare,1,143.23,154.75,130.08
+5,Assam,Ministry of Petroleum & Natural Gas,Energy Storage,3,10768.4,11947.4,11231.34
+5,Assam,Ministry of Petroleum & Natural Gas,Oil & Gas,14,27356.06,37710.9,29379.02
+5,Assam,Ministry of Power,Electricity Generation,1,6285.33,26075.5,26150.32
+5,Assam,Ministry of Power,Transmission & Distribution,1,5111.33,6700,5577.75
+5,Assam,Ministry of Railways,Railways,9,19531.77,21246.8,12700.19
+5,Assam,Ministry of Road Transport & Highways,Roads & Highways,55,49110.85,49762,14122.53
+6,Bihar,Department of Higher Education,Education,1,499.21,499.21,449.96
+6,Bihar,Department of Telecommunications,Telecommunication,3,3883.82,3691.11,1231.42
+6,Bihar,"Department of Water Resources, River Development & GR",Waste & Water,5,2351.43,2351.43,1303.45
+6,Bihar,"Department of Water Resources, River Development & GR",Water Resources,1,1622.27,2430.76,172.97
+6,Bihar,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,3,3541.56,3541.56,1582.80
+6,Bihar,Ministry of Health & Family Welfare,Healthcare,1,250,500,102.21
+6,Bihar,Ministry of Health & Family Welfare,Healthcare,1,1264,1264,0.00
+6,Bihar,Ministry of Housing & Urban Affairs,Urban Public Transport,1,13365.77,13365.8,5197.09
+6,Bihar,Ministry of Housing & Urban Affairs,Waste & Water,1,158.78,158.78,135.72
+6,Bihar,Ministry of Petroleum & Natural Gas,Energy Storage,1,10228,11407,10912.42
+6,Bihar,Ministry of Petroleum & Natural Gas,Oil & Gas,7,25153.5,27018.2,14520.84
+6,Bihar,"Ministry of Ports, Shipping and Waterways",Inland Waterways,1,5369.18,5061.15,3990.06
+6,Bihar,Ministry of Power,Electricity Generation,2,40387.09,43704.6,16046.62
+6,Bihar,Ministry of Power,Transmission & Distribution,3,3119.63,3119.63,144.45
+6,Bihar,Ministry of Railways,Railways,22,45121.2,49589.6,20003.94
+6,Bihar,Ministry of Road Transport & Highways,Roads & Highways,80,100804.89,100223,29424.11
+7,Chhattisgarh,Department of Higher Education,Education,1,1188.97,1188.97,0.00
+7,Chhattisgarh,Department of Telecommunications,Telecommunication,3,7147.17,7147.17,2535.97
+7,Chhattisgarh,"Department of Water Resources, River Development & GR",Water Resources,2,842.26,1109.33,867.91
+7,Chhattisgarh,Ministry of Coal,Coal,14,34428.39,34428.4,12684.69
+7,Chhattisgarh,Ministry of Coal,Railways,1,1686.22,2438.53,625.77
+7,Chhattisgarh,Ministry of Health & Family Welfare,Healthcare,3,975,972.85,533.99
+7,Chhattisgarh,Ministry of Petroleum & Natural Gas,Oil & Gas,3,10613.29,11024,7576.97
+7,Chhattisgarh,Ministry of Power,Electricity Generation,2,25321,25897,6406.93
+7,Chhattisgarh,Ministry of Railways,Railways,19,35085.53,39920.6,21279.21
+7,Chhattisgarh,Ministry of Road Transport & Highways,Roads & Highways,24,19089.87,20458.4,8158.10
+7,Chhattisgarh,Ministry of Steel,Metals & Mining,1,1700,1756.2,258.41
+7,Chhattisgarh,Ministry of Steel,Steel,5,7180.39,9700.39,6048.25
+8,Dadra & Nagar Haveli and Daman & Diu,Ministry of Housing & Urban Affairs,Waste & Water,1,210,210,0.00
+8,Dadra & Nagar Haveli and Daman & Diu,Ministry of Power,Transmission & Distribution,1,4546.26,4546.26,4528.07
+8,Dadra & Nagar Haveli and Daman & Diu,Ministry of Railways,Railways,1,108000,108000,90501.89
+8,Dadra & Nagar Haveli and Daman & Diu,Ministry of Road Transport & Highways,Roads & Highways,2,2107.8,2891.81,744.49
+9,Delhi,Department of Higher Education,Education,2,706.49,709.42,349.89
+9,Delhi,Department of Telecommunications,Telecommunication,1,248.2,248.2,237.39
+9,Delhi,Ministry of Health & Family Welfare,Healthcare,2,4799.19,4799.19,24.68
+9,Delhi,Ministry of Housing & Urban Affairs,Real Estate,1,32850,32841,13885.72
+9,Delhi,Ministry of Housing & Urban Affairs,Urban Public Transport,4,51594.36,51594.4,20535.66
+9,Delhi,Ministry of Power,Transmission & Distribution,3,3038,3038,2255.75
+9,Delhi,Ministry of Railways,Railways,5,19348.46,20637.1,10731.30
+9,Delhi,Ministry of Road Transport & Highways,Roads & Highways,6,11477.2,15088.6,10760.80
+10,Goa,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,1,255.69,255.69,156.70
+10,Goa,Ministry of Railways,Railways,3,7696.49,8074.62,6467.33
+10,Goa,Ministry of Road Transport & Highways,Roads & Highways,4,1729.55,1505.43,236.87
+11,Gujarat,Department of Higher Education,Education,1,490.63,490.63,335.08
+11,Gujarat,"Department of Water Resources, River Development & GR",Water Resources,2,25739.93,40082.8,36817.84
+11,Gujarat,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,2,1668.1,1914.1,984.70
+11,Gujarat,Ministry of Coal,Electricity Generation,4,5421.78,5421.78,2566.37
+11,Gujarat,Ministry of Health & Family Welfare,Healthcare,3,1845,2477.48,2165.58
+11,Gujarat,Ministry of Housing & Urban Affairs,Real Estate,1,539,539,599.76
+11,Gujarat,Ministry of Housing & Urban Affairs,Urban Public Transport,2,22793.32,24944.9,21450.30
+11,Gujarat,Ministry of Labour and Employment,Healthcare,2,763.99,763.99,107.55
+11,Gujarat,Ministry of Petroleum & Natural Gas,Energy Storage,3,19472.86,19420.4,15762.72
+11,Gujarat,Ministry of Petroleum & Natural Gas,Oil & Gas,11,32704.12,32400,24888.12
+11,Gujarat,"Ministry of Ports, Shipping and Waterways",Shipping,2,4414.64,4455.25,2393.50
+11,Gujarat,"Ministry of Ports, Shipping and Waterways","Tourism, Hospitality & Wellness",1,573,1238.05,614.91
+11,Gujarat,Ministry of Power,Electricity Generation,1,339.35,339.35,370.00
+11,Gujarat,Ministry of Power,Transmission & Distribution,15,69416.71,69416.7,14254.80
+11,Gujarat,Ministry of Railways,Railways,27,189399.71,267208,239144.30
+11,Gujarat,Ministry of Road Transport & Highways,Roads & Highways,46,50009.07,56623.3,25864.80
+12,Haryana,Department for Promotion of Industry & Internal Trade,Logistics Infrastructure,1,763,763,430.00
+12,Haryana,Ministry of Health & Family Welfare,Healthcare,1,1299,1646.43,651.42
+12,Haryana,Ministry of Housing & Urban Affairs,Urban Public Transport,2,11683.71,11683.7,165.10
+12,Haryana,Ministry of Housing & Urban Affairs,Waste & Water,1,278.01,278.01,228.49
+12,Haryana,Ministry of Petroleum & Natural Gas,Energy Storage,1,9028,9028,7160.82
+12,Haryana,Ministry of Petroleum & Natural Gas,Oil & Gas,6,46284.07,49955.1,36928.14
+12,Haryana,Ministry of Power,Transmission & Distribution,2,11326,11326,2759.57
+12,Haryana,Ministry of Railways,Railways,4,53464,126368,125791.51
+12,Haryana,Ministry of Road Transport & Highways,Roads & Highways,24,32523.29,35571.1,13971.95
+13,Himachal Pradesh,Department of Higher Education,Education,3,811.15,921.89,682.18
+13,Himachal Pradesh,Ministry of Power,Electricity Generation,3,5113.04,11168.7,4115.64
+13,Himachal Pradesh,Ministry of Railways,Railways,3,17005,17005.1,10532.56
+13,Himachal Pradesh,Ministry of Road Transport & Highways,Roads & Highways,25,22698.11,26851.5,9814.17
+14,Jammu and Kashmir,Department of Higher Education,Education,1,424.93,500.91,484.52
+14,Jammu and Kashmir,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,1,861.37,861.37,319.50
+14,Jammu and Kashmir,Ministry of Health & Family Welfare,Healthcare,1,1828,2160.84,1545.05
+14,Jammu and Kashmir,Ministry of Petroleum & Natural Gas,Oil & Gas,2,1059.9,1059.9,306.82
+14,Jammu and Kashmir,Ministry of Power,Electricity Generation,4,22207.77,27945.1,15983.32
+14,Jammu and Kashmir,Ministry of Power,Transmission & Distribution,1,218.6,218.6,3.72
+14,Jammu and Kashmir,Ministry of Road Transport & Highways,Roads & Highways,37,33781.46,33862.9,13255.67
+15,Jharkhand,Department of Telecommunications,Telecommunication,3,7147.17,7147.17,2535.97
+15,Jharkhand,"Department of Water Resources, River Development & GR",Water Resources,2,5430.04,12010.3,6172.77
+15,Jharkhand,Ministry of Coal,Coal,28,50047.42,49811.8,10660.97
+15,Jharkhand,Ministry of Coal,Railways,1,1799.64,2564.34,1713.19
+15,Jharkhand,Ministry of Health & Family Welfare,Healthcare,2,500,958.9,334.00
+15,Jharkhand,Ministry of Housing & Urban Affairs,Waste & Water,3,654.14,654.14,403.16
+15,Jharkhand,Ministry of Petroleum & Natural Gas,Energy Storage,1,10228,11407,10912.42
+15,Jharkhand,Ministry of Petroleum & Natural Gas,Oil & Gas,3,2010.07,2010.07,700.94
+15,Jharkhand,"Ministry of Ports, Shipping and Waterways",Inland Waterways,1,5369.18,5061.15,3990.06
+15,Jharkhand,Ministry of Power,Coal,2,2083,2365,1072.11
+15,Jharkhand,Ministry of Power,Electricity Generation,2,33026,34660,20580.03
+15,Jharkhand,Ministry of Power,Transmission & Distribution,1,1842.25,1842.25,1648.05
+15,Jharkhand,Ministry of Railways,Railways,14,38516.93,39377.6,11390.56
+15,Jharkhand,Ministry of Road Transport & Highways,Roads & Highways,36,40068.85,39106.5,13475.31
+15,Jharkhand,Ministry of Steel,Steel,6,2854.58,3572.87,1938.30
+16,Karnataka,Department for Promotion of Industry & Internal Trade,Real Estate,1,1701.81,1701.81,278.35
+16,Karnataka,"Department of Water Resources, River Development & GR",Water Resources,1,770.16,1606.07,1515.60
+16,Karnataka,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,3,1143.4,1143.4,734.38
+16,Karnataka,Ministry of Housing & Urban Affairs,Urban Public Transport,3,56804.24,61094.2,40079.41
+16,Karnataka,Ministry of Housing & Urban Affairs,Waste & Water,1,162.73,162.73,79.50
+16,Karnataka,Ministry of Labour and Employment,Healthcare,2,428.92,428.92,74.99
+16,Karnataka,Ministry of Petroleum & Natural Gas,Energy Storage,1,678,1732,1118.26
+16,Karnataka,Ministry of Petroleum & Natural Gas,Oil & Gas,5,9662,12693.6,9655.02
+16,Karnataka,"Ministry of Ports, Shipping and Waterways",Shipping,1,153.23,153.23,58.93
+16,Karnataka,Ministry of Power,Transmission & Distribution,10,23490.99,23491,7293.05
+16,Karnataka,Ministry of Railways,Railways,20,46557.93,52395.5,19806.28
+16,Karnataka,Ministry of Road Transport & Highways,Roads & Highways,74,79596.9,83492.5,31736.79
+16,Karnataka,Ministry of Steel,Steel,1,1043.63,1043.63,609.80
+17,Kerala,Department for Promotion of Industry & Internal Trade,Real Estate,1,3805,3805,0.00
+17,Kerala,Department of Higher Education,Education,2,2533.45,2744.4,690.49
+17,Kerala,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,1,484.57,484.57,204.60
+17,Kerala,Ministry of Housing & Urban Affairs,Urban Public Transport,1,1957.05,1957.05,746.33
+17,Kerala,Ministry of Petroleum & Natural Gas,Oil & Gas,3,8505,11889,5878.18
+17,Kerala,Ministry of Power,Transmission & Distribution,1,173.14,173.14,2.08
+17,Kerala,Ministry of Railways,Railways,3,2846,5183.64,3344.67
+17,Kerala,Ministry of Road Transport & Highways,Roads & Highways,21,55629.95,61868.6,20327.79
+18,Ladakh,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,1,480,640,501.81
+18,Ladakh,Ministry of Road Transport & Highways,Roads & Highways,3,1184.27,1184.27,825.09
+19,Madhya Pradesh,Department of Higher Education,Education,1,496.28,496.28,78.35
+19,Madhya Pradesh,Department of Telecommunications,Telecommunication,3,3883.82,3691.11,1231.42
+19,Madhya Pradesh,"Department of Water Resources, River Development & GR",Water Resources,4,23658.27,23971.1,11742.99
+19,Madhya Pradesh,Ministry of Coal,Coal,15,34550.26,34550.3,3443.05
+19,Madhya Pradesh,Ministry of Health & Family Welfare,Healthcare,2,650,650,260.41
+19,Madhya Pradesh,Ministry of Housing & Urban Affairs,Urban Public Transport,2,14442.2,14442.2,9182.30
+19,Madhya Pradesh,Ministry of Housing & Urban Affairs,Waste & Water,3,880.74,941.16,810.50
+19,Madhya Pradesh,Ministry of Mines,Metals & Mining,1,1856.36,3800,965.07
+19,Madhya Pradesh,Ministry of Petroleum & Natural Gas,Energy Storage,1,10088,10088,8529.58
+19,Madhya Pradesh,Ministry of Petroleum & Natural Gas,Oil & Gas,3,53003.25,53414,12360.80
+19,Madhya Pradesh,Ministry of Power,Electricity Generation,1,20446,20446,1721.18
+19,Madhya Pradesh,Ministry of Power,Transmission & Distribution,10,46260.32,46260.3,7207.11
+19,Madhya Pradesh,Ministry of Railways,Railways,18,55989.79,69626.6,55110.99
+19,Madhya Pradesh,Ministry of Road Transport & Highways,Roads & Highways,61,43398.77,40100.6,11482.23
+20,Maharashtra,Department of Telecommunications,Telecommunication,3,7147.17,7147.17,2535.97
+20,Maharashtra,"Department of Water Resources, River Development & GR",Water Resources,11,22660.36,32345.7,36882.64
+20,Maharashtra,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,1,500.48,500.48,381.20
+20,Maharashtra,Ministry of Coal,Coal,26,12900.3,12900.3,3152.48
+20,Maharashtra,Ministry of Housing & Urban Affairs,Urban Public Transport,9,60255.66,74569.4,36353.25
+20,Maharashtra,Ministry of Housing & Urban Affairs,Waste & Water,4,814.94,814.94,715.68
+20,Maharashtra,Ministry of Labour and Employment,Healthcare,3,884.31,886.08,672.75
+20,Maharashtra,Ministry of Petroleum & Natural Gas,Energy Storage,2,764.49,872.81,558.28
+20,Maharashtra,Ministry of Petroleum & Natural Gas,Oil & Gas,12,45781.88,48746.3,21550.71
+20,Maharashtra,"Ministry of Ports, Shipping and Waterways",Shipping,1,6000,6000,5999.89
+20,Maharashtra,Ministry of Power,Transmission & Distribution,6,34016.67,34016.7,7275.40
+20,Maharashtra,Ministry of Railways,Railways,34,266393.54,357833,287950.70
+20,Maharashtra,Ministry of Road Transport & Highways,Roads & Highways,101,84448.08,90412.2,27651.08
+21,Manipur,Department of Sports,Education,1,906.47,611.74,574.12
+21,Manipur,"Department of Water Resources, River Development & GR",Water Resources,1,1449.44,1822.24,1837.91
+21,Manipur,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,1,499,499,201.99
+21,Manipur,Ministry of Petroleum & Natural Gas,Oil & Gas,1,9265,9265,6877.97
+21,Manipur,Ministry of Power,Transmission & Distribution,1,5111.33,6700,5577.75
+21,Manipur,Ministry of Railways,Railways,1,14323,21885.9,16020.78
+21,Manipur,Ministry of Road Transport & Highways,Roads & Highways,30,10790.98,10791,5985.39
+22,Meghalaya,Department of Higher Education,Education,1,494.52,429.7,368.98
+22,Meghalaya,Department of Telecommunications,Telecommunication,1,971.96,971.96,232.79
+22,Meghalaya,Ministry of Petroleum & Natural Gas,Oil & Gas,1,9265,9265,6877.97
+22,Meghalaya,Ministry of Power,Transmission & Distribution,1,5111.33,6700,5577.75
+22,Meghalaya,Ministry of Railways,Railways,2,9628.9,9646.9,1520.59
+22,Meghalaya,Ministry of Road Transport & Highways,Roads & Highways,12,6148.96,5995.63,1034.15
+23,Mizoram,Department of Higher Education,Education,1,474.23,474.23,167.55
+23,Mizoram,Ministry of Petroleum & Natural Gas,Energy Storage,1,225.71,225.71,22.78
+23,Mizoram,Ministry of Petroleum & Natural Gas,Oil & Gas,1,9265,9265,6877.97
+23,Mizoram,Ministry of Power,Transmission & Distribution,1,5111.33,6700,5577.75
+23,Mizoram,Ministry of Road Transport & Highways,Roads & Highways,21,14421.14,14565.7,2548.87
+24,Nagaland,Department of Higher Education,Education,1,275.63,275.63,263.25
+24,Nagaland,Ministry of Petroleum & Natural Gas,Oil & Gas,2,9492.62,9492.62,6903.91
+24,Nagaland,Ministry of Power,Transmission & Distribution,1,5111.33,6700,5577.75
+24,Nagaland,Ministry of Railways,Railways,2,8786.7,8786.7,6403.64
+24,Nagaland,Ministry of Road Transport & Highways,Roads & Highways,19,6191.03,6745.08,925.84
+25,Odisha,Department of Higher Education,Education,3,1882.56,1496.33,1017.41
+25,Odisha,Department of Telecommunications,Telecommunication,3,7147.17,7147.17,2535.97
+25,Odisha,"Department of Water Resources, River Development & GR",Water Resources,3,4612.34,12314.5,13641.21
+25,Odisha,Ministry of Coal,Coal,13,37048.73,34740.4,14042.31
+25,Odisha,Ministry of Coal,Electricity Generation,1,27212.96,27213,3454.06
+25,Odisha,Ministry of Labour and Employment,Healthcare,1,164.6,164.6,16.40
+25,Odisha,Ministry of Mines,Metals & Mining,3,5967,8121.17,6103.84
+25,Odisha,Ministry of Petroleum & Natural Gas,Energy Storage,2,12886.34,14217,13227.62
+25,Odisha,Ministry of Petroleum & Natural Gas,Oil & Gas,6,25800.35,24283.5,17176.27
+25,Odisha,"Ministry of Ports, Shipping and Waterways",Shipping,1,3004.63,3004.63,2117.12
+25,Odisha,Ministry of Power,Electricity Generation,2,22974.75,23674,6915.20
+25,Odisha,Ministry of Power,Transmission & Distribution,2,3065.19,3065.19,116.20
+25,Odisha,Ministry of Railways,Railways,30,44824.98,50582.2,33089.26
+25,Odisha,Ministry of Railways,Railways,1,267.61,267.61,0.00
+25,Odisha,Ministry of Road Transport & Highways,Roads & Highways,42,26739.2,29583.1,11855.71
+26,Puducherry,Department of Higher Education,Education,1,618.34,544.34,543.74
+26,Puducherry,Ministry of Railways,Railways,1,713,981,635.30
+26,Puducherry,Ministry of Road Transport & Highways,Roads & Highways,4,7027.6,7051.29,2842.14
+27,Punjab,Department of Higher Education,Education,2,559.3,559.3,368.06
+27,Punjab,"Department of Water Resources, River Development & GR",Water Resources,2,3727.07,5177.86,4424.28
+27,Punjab,Ministry of Health & Family Welfare,Healthcare,2,650,924.75,1.00
+27,Punjab,Ministry of Housing & Urban Affairs,Waste & Water,2,545.53,553.64,374.66
+27,Punjab,Ministry of Petroleum & Natural Gas,Oil & Gas,5,12693.36,12693.4,8343.57
+27,Punjab,Ministry of Power,Transmission & Distribution,1,5969,5969,1313.18
+27,Punjab,Ministry of Railways,Railways,4,15937.42,15937.8,10089.50
+27,Punjab,Ministry of Road Transport & Highways,Roads & Highways,38,50442.91,55308.3,22730.58
+28,Rajasthan,Department of Telecommunications,Telecommunication,1,421.65,228.94,152.96
+28,Rajasthan,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,3,2874,2874,903.97
+28,Rajasthan,Ministry of Coal,Electricity Generation,2,5960.07,5960.07,1977.84
+28,Rajasthan,Ministry of Petroleum & Natural Gas,Energy Storage,3,52618.05,88948.1,76588.28
+28,Rajasthan,Ministry of Petroleum & Natural Gas,Oil & Gas,2,10599,10599,6768.57
+28,Rajasthan,Ministry of Power,Transmission & Distribution,19,75111.3,75111.3,23447.46
+28,Rajasthan,Ministry of Railways,Railways,23,88286.45,164998,153090.89
+28,Rajasthan,Ministry of Road Transport & Highways,Roads & Highways,28,19610.21,18276.4,9074.86
+29,Sikkim,Department of Higher Education,Education,2,999.82,924.82,575.56
+29,Sikkim,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,1,323.26,323.26,80.84
+29,Sikkim,Ministry of Health & Family Welfare,Healthcare,1,250,635.21,666.21
+29,Sikkim,Ministry of Petroleum & Natural Gas,Oil & Gas,1,9265,9265,6877.97
+29,Sikkim,Ministry of Power,Electricity Generation,2,6686.33,7576.15,5982.08
+29,Sikkim,Ministry of Power,Transmission & Distribution,1,4754.42,9129.32,8069.40
+29,Sikkim,Ministry of Railways,Railways,1,7877,11775,10770.42
+29,Sikkim,Ministry of Road Transport & Highways,Roads & Highways,8,3158.89,3287.17,95.30
+30,Tamil Nadu,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,1,1207,1207,289.50
+30,Tamil Nadu,Ministry of Coal,Electricity Generation,1,218.03,218.03,169.95
+30,Tamil Nadu,Ministry of Health & Family Welfare,Healthcare,1,1264,2021.51,485.02
+30,Tamil Nadu,Ministry of Housing & Urban Affairs,Urban Public Transport,1,63246,63246,33129.33
+30,Tamil Nadu,Ministry of Mines,Metals & Mining,1,166,166,135.00
+30,Tamil Nadu,Ministry of Petroleum & Natural Gas,Energy Storage,2,1507,2561,1468.47
+30,Tamil Nadu,Ministry of Petroleum & Natural Gas,Oil & Gas,4,38385,46153,6742.72
+30,Tamil Nadu,Ministry of Power,Transmission & Distribution,1,548,548,120.56
+30,Tamil Nadu,Ministry of Railways,Railways,8,8972.13,13326.6,7163.32
+30,Tamil Nadu,Ministry of Road Transport & Highways,Roads & Highways,50,61860.57,58070.9,21408.17
+31,Telangana,Department for Promotion of Industry & Internal Trade,Real Estate,1,2360,2360,0.00
+31,Telangana,Department of Higher Education,Education,1,262,262,213.89
+31,Telangana,Department of Telecommunications,Telecommunication,2,3462.17,3462.17,1078.46
+31,Telangana,"Department of Water Resources, River Development & GR",Water Resources,4,11670.14,24129.6,12086.85
+31,Telangana,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,1,500.48,500.48,381.20
+31,Telangana,Ministry of Coal,Coal,7,2986.57,2986.57,1785.91
+31,Telangana,Ministry of Health & Family Welfare,Healthcare,1,1028,1365.95,989.98
+31,Telangana,Ministry of Housing & Urban Affairs,Construction,1,644,644,161.57
+31,Telangana,Ministry of Petroleum & Natural Gas,Oil & Gas,1,215,215,45.69
+31,Telangana,Ministry of Power,Transmission & Distribution,2,4914.94,4914.94,4722.91
+31,Telangana,Ministry of Railways,Railways,11,19213.75,22977.8,16890.88
+31,Telangana,Ministry of Road Transport & Highways,Roads & Highways,59,40276.58,43334.8,13982.12
+32,Tripura,Ministry of Petroleum & Natural Gas,Energy Storage,1,656,656,537.17
+32,Tripura,Ministry of Petroleum & Natural Gas,Oil & Gas,2,9474.33,9396.51,6956.95
+32,Tripura,Ministry of Power,Transmission & Distribution,1,5111.33,6700,5577.75
+32,Tripura,Ministry of Road Transport & Highways,Roads & Highways,9,6081.38,6105.91,573.55
+33,Uttar Pradesh,Department for Promotion of Industry & Internal Trade,Real Estate,1,658,658,0.00
+33,Uttar Pradesh,Department of Higher Education,Education,1,246,246,207.02
+33,Uttar Pradesh,Department of Telecommunications,Telecommunication,3,3883.82,3691.11,1231.42
+33,Uttar Pradesh,"Department of Water Resources, River Development & GR",Waste & Water,2,1532.96,1532.96,243.43
+33,Uttar Pradesh,"Department of Water Resources, River Development & GR",Water Resources,4,23983.27,27339.8,13244.04
+33,Uttar Pradesh,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,3,3949.13,3949.13,1150.85
+33,Uttar Pradesh,Ministry of Coal,Coal,2,1328.09,1328.09,1112.09
+33,Uttar Pradesh,Ministry of Coal,Electricity Generation,1,17237.8,21780.9,21237.52
+33,Uttar Pradesh,Ministry of Housing & Urban Affairs,Urban Public Transport,3,25257.15,25257.2,15172.93
+33,Uttar Pradesh,Ministry of Housing & Urban Affairs,Waste & Water,2,704.2,734.95,652.69
+33,Uttar Pradesh,Ministry of Petroleum & Natural Gas,Energy Storage,2,11068.45,11068.5,8823.46
+33,Uttar Pradesh,Ministry of Petroleum & Natural Gas,Oil & Gas,4,17302.12,17302.1,952.08
+33,Uttar Pradesh,"Ministry of Ports, Shipping and Waterways",Inland Waterways,1,5369.18,5061.15,3990.06
+33,Uttar Pradesh,Ministry of Power,Electricity Generation,1,17195,17195,3306.21
+33,Uttar Pradesh,Ministry of Power,Transmission & Distribution,5,36697.81,36697.8,4640.11
+33,Uttar Pradesh,Ministry of Railways,Railways,26,95077.38,168712,147911.14
+33,Uttar Pradesh,Ministry of Road Transport & Highways,Roads & Highways,121,139961.76,134187,43024.55
+34,Uttarakhand,Department of Higher Education,Education,1,650.85,650.85,345.85
+34,Uttarakhand,"Department of Water Resources, River Development & GR",Water Resources,1,2584.1,2584.1,1267.40
+34,Uttarakhand,Ministry of Health & Family Welfare,Healthcare,2,650,1093.89,597.08
+34,Uttarakhand,Ministry of Housing & Urban Affairs,Real Estate,1,150.97,206,54.01
+34,Uttarakhand,Ministry of Labour and Employment,Healthcare,1,102.4,297.63,334.86
+34,Uttarakhand,Ministry of Power,Electricity Generation,2,6838.35,17312.4,13144.59
+34,Uttarakhand,Ministry of Railways,Railways,1,38953,38953,28286.15
+34,Uttarakhand,Ministry of Road Transport & Highways,Roads & Highways,42,23894.83,22809,7758.63
+35,West Bengal,Department of Higher Education,Education,1,500,442,415.35
+35,West Bengal,Department of Telecommunications,Telecommunication,2,3462.17,3462.17,1078.46
+35,West Bengal,"Department of Water Resources, River Development & GR",Waste & Water,1,154.73,154.73,96.17
+35,West Bengal,Ministry of Civil Aviation,Aviation & Aviation Infrastructure,2,1877.3,1877.3,581.18
+35,West Bengal,Ministry of Coal,Coal,12,13202.01,13202,2274.29
+35,West Bengal,Ministry of Mines,Construction,1,255.37,255.37,98.92
+35,West Bengal,Ministry of Petroleum & Natural Gas,Energy Storage,1,10228,11407,10912.42
+35,West Bengal,Ministry of Petroleum & Natural Gas,Oil & Gas,10,18730.65,19675.2,12003.18
+35,West Bengal,"Ministry of Ports, Shipping and Waterways",Inland Waterways,1,5369.18,5061.15,3990.06
+35,West Bengal,Ministry of Power,Electricity Generation,3,20091.84,21644.6,4652.59
+35,West Bengal,Ministry of Power,Transmission & Distribution,2,751.63,751.63,108.93
+35,West Bengal,Ministry of Railways,Railways,16,49559.1,60771,37993.71
+35,West Bengal,Ministry of Road Transport & Highways,Roads & Highways,24,16531.77,15962,3926.88
+35,West Bengal,Ministry of Steel,Steel,6,6733.06,6733.06,1476.68

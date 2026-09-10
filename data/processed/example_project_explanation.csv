@@ -1,0 +1,7 @@
+﻿feature,feature_value,shap_value,impact,absolute_impact
+expenditure_progress_gap,-16.46102064608327,-6.5013676,Decreases predicted cost overrun,6.5013676
+expenditure_ratio_pct,48.53897935391673,-5.885484,Decreases predicted cost overrun,5.885484
+cumulative_expenditure_cr,129.07,-3.1436112,Decreases predicted cost overrun,3.1436112
+original_cost_cr,265.91,2.9455526,Increases predicted cost overrun,2.9455526
+physical_progress_pct,65.0,0.94017047,Increases predicted cost overrun,0.94017047
+planned_duration_days,731.0,-0.53607005,Decreases predicted cost overrun,0.53607005
