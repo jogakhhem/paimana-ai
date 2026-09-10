@@ -3874,3 +3874,744 @@ tbody tr:last-child td {
   }
 
 }
+
+
+/* =========================================================
+   MOBILE / TABLET RESPONSIVE UI
+   PAIMANA AI
+   ========================================================= */
+
+/* =========================================================
+   TABLET — 900px
+   ========================================================= */
+
+@media (max-width: 900px) {
+
+  /* Main content */
+  .main-content,
+  .app-layout {
+    margin-left: 0 !important;
+    padding: 100px 20px 50px !important;
+  }
+
+  /* Sidebar */
+  .sidebar {
+    display: none;
+  }
+
+  /* Navbar */
+  .navbar {
+    height: auto;
+    min-height: 70px;
+    padding: 10px 16px;
+  }
+
+  .navbar-brand {
+    gap: 9px;
+  }
+
+  .brand-icon,
+  .brand-logo {
+    width: 42px;
+    height: 42px;
+    font-size: 19px;
+  }
+
+  .brand-title {
+    font-size: 18px;
+  }
+
+  .brand-subtitle {
+    display: none;
+  }
+
+  .system-status,
+  .navbar-status {
+    display: none;
+  }
+
+  .navbar-links {
+    gap: 4px;
+    overflow-x: auto;
+    max-width: 100%;
+  }
+
+  .nav-link {
+    min-height: 40px;
+    padding: 0 10px;
+    font-size: 11px;
+    white-space: nowrap;
+  }
+
+  /* Page */
+  .page {
+    max-width: 100%;
+    padding: 25px 5px 50px;
+  }
+
+  /* Project cards */
+  .projects-grid,
+  .project-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  /* KPI */
+  .kpi-grid,
+  .stats-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  /* Charts */
+  .chart-grid,
+  .dashboard-grid,
+  .analytics-grid {
+    grid-template-columns: 1fr;
+  }
+
+  /* Project summary */
+  .project-summary {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+}
+
+
+/* =========================================================
+   MOBILE — 600px
+   ========================================================= */
+
+@media (max-width: 600px) {
+
+  /* ---------- BODY ---------- */
+
+  body {
+    min-width: 320px;
+    overflow-x: hidden;
+  }
+
+  .app {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+
+  /* ---------- NAVBAR ---------- */
+
+  .navbar {
+    position: fixed;
+
+    top: 0;
+    left: 0;
+    right: 0;
+
+    width: 100%;
+
+    min-height: 62px;
+
+    padding: 8px 12px;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 6px;
+
+    z-index: 1000;
+  }
+
+  .navbar-brand {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .brand-icon,
+  .brand-logo {
+    width: 38px;
+    height: 38px;
+    min-width: 38px;
+    font-size: 18px;
+  }
+
+  .brand-title {
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+
+
+  /* ---------- NAVIGATION ---------- */
+
+  .navbar-links {
+    order: 3;
+
+    width: 100%;
+
+    display: flex;
+
+    justify-content: flex-start;
+
+    gap: 5px;
+
+    overflow-x: auto;
+
+    scrollbar-width: none;
+
+    padding: 3px 0 2px;
+  }
+
+  .navbar-links::-webkit-scrollbar {
+    display: none;
+  }
+
+  .nav-link {
+    flex: 0 0 auto;
+
+    min-height: 36px;
+
+    padding: 0 10px;
+
+    border-radius: 8px;
+
+    font-size: 10px;
+
+    white-space: nowrap;
+  }
+
+  .nav-link span {
+    font-size: 13px;
+  }
+
+
+  /* ---------- MAIN CONTENT ---------- */
+
+  .main-content,
+  .app-layout {
+    margin-left: 0 !important;
+
+    width: 100%;
+
+    padding:
+      115px 10px 45px !important;
+  }
+
+
+  /* ---------- PAGE ---------- */
+
+  .page {
+    width: 100%;
+
+    padding:
+      20px 0 40px;
+  }
+
+
+  /* ---------- HEADERS ---------- */
+
+  .projects-header,
+  .analytics-header,
+  .page-header,
+  .dashboard-header {
+
+    flex-direction: column;
+
+    align-items: flex-start;
+
+    gap: 12px;
+
+    margin-bottom: 20px;
+  }
+
+  .projects-header h1,
+  .analytics-header h1,
+  .page-header h1,
+  .dashboard-heading {
+
+    font-size: 26px;
+
+    line-height: 1.2;
+  }
+
+  .projects-header p,
+  .analytics-header p {
+
+    font-size: 12px;
+
+    line-height: 1.5;
+  }
+
+
+  /* ---------- KPI ---------- */
+
+  .kpi-grid,
+  .stats-grid {
+
+    grid-template-columns: 1fr;
+
+    gap: 12px;
+  }
+
+  .kpi {
+
+    min-height: 115px;
+
+    padding: 18px;
+  }
+
+  .kpi-value {
+
+    font-size: 27px;
+  }
+
+
+  /* ---------- PROJECT SUMMARY ---------- */
+
+  .project-summary {
+
+    grid-template-columns: 1fr;
+
+    gap: 12px;
+  }
+
+  .project-summary-card {
+
+    min-height: 100px;
+
+    padding: 17px;
+  }
+
+
+  /* ---------- PROJECT GRID ---------- */
+
+  .projects-grid,
+  .project-grid {
+
+    grid-template-columns: 1fr;
+
+    gap: 14px;
+  }
+
+  .project-card {
+
+    width: 100%;
+
+    min-height: auto;
+
+    padding: 18px;
+  }
+
+  .project-card h3,
+  .project-card h2 {
+
+    font-size: 16px;
+  }
+
+
+  /* ---------- PROJECT METRICS ---------- */
+
+  .project-metrics {
+
+    grid-template-columns:
+      repeat(3, minmax(0, 1fr));
+
+    gap: 6px;
+  }
+
+  .project-metrics > div {
+
+    padding: 9px 5px;
+
+    min-width: 0;
+  }
+
+  .project-metrics span {
+
+    font-size: 8px;
+  }
+
+  .project-metrics strong {
+
+    font-size: 10px;
+
+    word-break: break-word;
+  }
+
+
+  /* ---------- SEARCH ---------- */
+
+  .search-box {
+
+    width: 100%;
+
+    flex-direction: column;
+
+    gap: 8px;
+  }
+
+  .search-box input {
+
+    width: 100%;
+
+    min-height: 44px;
+  }
+
+  .search-box button {
+
+    width: 100%;
+
+    min-height: 44px;
+  }
+
+
+  /* ---------- FILTERS ---------- */
+
+  .filters {
+
+    grid-template-columns: 1fr;
+
+    gap: 10px;
+  }
+
+  .filter-group {
+
+    width: 100%;
+  }
+
+  .filter-select,
+  .filters select {
+
+    width: 100%;
+
+    min-height: 44px;
+
+    font-size: 12px;
+  }
+
+
+  /* ---------- CHART CARDS ---------- */
+
+  .chart-card,
+  .analytics-card {
+
+    width: 100%;
+
+    min-width: 0;
+
+    min-height: 300px;
+
+    padding: 15px;
+
+    overflow: hidden;
+  }
+
+  .chart-title {
+
+    font-size: 14px;
+
+    margin-bottom: 12px;
+  }
+
+  .analytics-chart {
+
+    width: 100%;
+
+    min-height: 260px;
+  }
+
+  .chart-container {
+
+    width: 100%;
+
+    min-height: 260px;
+
+    overflow: hidden;
+  }
+
+
+  /* ---------- ANALYTICS METRICS ---------- */
+
+  .analytics-metrics {
+
+    grid-template-columns: 1fr;
+
+    gap: 10px;
+  }
+
+  .analytics-metric {
+
+    padding: 15px;
+  }
+
+  .analytics-metric-value {
+
+    font-size: 23px;
+  }
+
+
+  /* ---------- ANALYTICS TOOLBAR ---------- */
+
+  .analytics-toolbar {
+
+    flex-direction: column;
+
+    align-items: stretch;
+
+    gap: 10px;
+
+    padding: 13px;
+  }
+
+  .analytics-toolbar select {
+
+    width: 100%;
+
+    min-height: 42px;
+  }
+
+
+  /* ---------- WARNING CARDS ---------- */
+
+  .warning-card {
+
+    width: 100%;
+
+    flex-direction: column;
+
+    align-items: stretch;
+
+    gap: 15px;
+
+    padding: 17px;
+  }
+
+  .warning-card h3 {
+
+    font-size: 14px;
+  }
+
+  .warning-card p {
+
+    font-size: 11px;
+  }
+
+  .warning-score {
+
+    width: 100%;
+
+    min-width: 0;
+  }
+
+
+  /* ---------- WARNING FILTERS ---------- */
+
+  .warning-filters {
+
+    width: 100%;
+
+    overflow-x: auto;
+
+    flex-wrap: nowrap;
+
+    scrollbar-width: none;
+  }
+
+  .warning-filters::-webkit-scrollbar {
+    display: none;
+  }
+
+  .warning-filter {
+
+    flex: 0 0 auto;
+
+    white-space: nowrap;
+  }
+
+
+  /* ---------- TABLES ---------- */
+
+  .table-card {
+
+    width: 100%;
+
+    padding: 12px;
+
+    overflow: hidden;
+  }
+
+  .table-container,
+  .table-wrapper {
+
+    width: 100%;
+
+    overflow-x: auto;
+
+    -webkit-overflow-scrolling: touch;
+  }
+
+  table,
+  .data-table {
+
+    min-width: 700px;
+  }
+
+
+  /* ---------- SHAP ---------- */
+
+  .shap-container {
+
+    padding: 15px;
+
+    margin-top: 20px;
+  }
+
+  .shap-explanation-item {
+
+    gap: 10px;
+
+    padding: 11px;
+
+  }
+
+  .shap-feature {
+
+    font-size: 11px;
+  }
+
+
+  /* ---------- EMPTY / ERROR ---------- */
+
+  .empty-box {
+
+    padding: 50px 15px;
+  }
+
+  .error-box {
+
+    font-size: 11px;
+
+    line-height: 1.5;
+  }
+
+
+  /* ---------- FOOTER ---------- */
+
+  .footer {
+
+    padding: 20px 12px;
+
+    font-size: 10px;
+  }
+
+}
+
+
+/* =========================================================
+   VERY SMALL PHONES — 400px
+   ========================================================= */
+
+@media (max-width: 400px) {
+
+  .navbar {
+
+    padding: 7px 9px;
+  }
+
+  .brand-title {
+
+    font-size: 15px;
+  }
+
+  .brand-icon,
+  .brand-logo {
+
+    width: 35px;
+    height: 35px;
+    min-width: 35px;
+
+    font-size: 16px;
+  }
+
+  .navbar-links {
+
+    gap: 3px;
+  }
+
+  .nav-link {
+
+    padding: 0 8px;
+
+    font-size: 9px;
+  }
+
+  .nav-link span {
+
+    font-size: 12px;
+  }
+
+  .main-content,
+  .app-layout {
+
+    padding:
+      112px 8px 40px !important;
+  }
+
+  .projects-header h1,
+  .analytics-header h1,
+  .page-header h1,
+  .dashboard-heading {
+
+    font-size: 23px;
+  }
+
+  .project-card {
+
+    padding: 15px;
+  }
+
+  .project-metrics {
+
+    grid-template-columns: 1fr;
+
+  }
+
+  .project-metrics > div {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    padding: 9px 10px;
+  }
+
+  .project-metrics span {
+
+    margin-bottom: 0;
+  }
+
+}
+
+
+/* =========================================================
+   TOUCH DEVICES
+========================================================= */
+
+@media (hover: none) and (pointer: coarse) {
+
+  .kpi:hover,
+  .stat-card:hover,
+  .chart-card:hover,
+  .project-card:hover,
+  .warning-card:hover {
+
+    transform: none;
+  }
+
+  .nav-link,
+  button,
+  .view-project-btn,
+  .warning-filter,
+  .risk-tag {
+
+    min-height: 42px;
+  }
+
+}
