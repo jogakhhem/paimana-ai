@@ -215,6 +215,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
+        "https://paimana-ai-five.vercel.app"
         "http://localhost:5173",
         "http://127.0.0.1:5173",
     ],
@@ -286,6 +287,7 @@ shap_explainer = None
 
 
 if os.path.exists(MODEL_PATH) and os.path.exists(IMPUTER_PATH):
+
 
     cost_model = joblib.load(MODEL_PATH)
     cost_imputer = joblib.load(IMPUTER_PATH)
